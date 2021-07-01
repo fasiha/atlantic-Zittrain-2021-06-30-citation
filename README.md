@@ -1,3 +1,7 @@
+This is a personal mirror, for citation and archival research purposes, of Jonathan Zittrain's "The Internet Is Rotting" published in [The Atlantic](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/) on 2021-06-30.
+
+Below are the steps I took to create this archive.
+
 After copying the `article` tag from the Atlantic,
 - `div.ArticleLeadArt_root__gi0oh`: I don't need article lead art but maybe I do?
 - `div.ArticleUtilityBar_root__fMTYg`: I don't need this utility bar of share links
